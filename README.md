@@ -30,3 +30,6 @@ You can define the list of IPs in config/id_ip.config.php
 If the user_id is not listed, he/she is allowed to login from everywhere.
 If you want to reject the user who is not listed, edit bootstrap.php
     $class->setDefaultValue(false);
+
+##Japanese Description
+http://ounziw.com/2014/08/19/ip-restriction/
